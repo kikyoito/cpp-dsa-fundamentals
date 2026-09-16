@@ -25,6 +25,4 @@ void map() {
     cout << *(it).second; // prints 1
 
     auto it = mpp.find(5); // will just give mpp.end(). since key 5 doesn't exists.
-
-
 }
