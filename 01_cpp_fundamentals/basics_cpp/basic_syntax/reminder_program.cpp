@@ -11,7 +11,7 @@ int main (){
         return 0;
     }
     else if (today == 0) {
-        std::cout << "today is sunday, you stupid asshole, so enjoy yourself";
+        std::cout << "today is sunday, so enjoy yourself";
         return 0;
     }
 }
