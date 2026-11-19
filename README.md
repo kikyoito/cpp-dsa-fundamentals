@@ -1,10 +1,10 @@
 # 🚀 C++/Data Structures & Algorithms Fundamentals
 
-> 💡 **Note:** This repository is a live, ongoing learning journey and is currently **in progress**. Some directories or files may be empty or under work as I take the time to learn and implement each concept.
+> 💡 **Note:** This repository is a ongoing learning effort and is currently **not completed**. Some files or folders may be empty or in progress as I take my time to learn and implement each concept.
 
 ---
 
-Welcome to the **`cpp-dsa-fundamentals`** repository dedicated to learning C++ and Data Structures & Algorithms (DSA). This repository serves as a structured timeline of my learning journey, moving from basic syntax to complex data structures and algorithms.
+This repository serves as a structured timeline of my learning journey, moving from basic syntax to complex data structures and algorithms.
 
 ---
 
@@ -14,9 +14,7 @@ The project right now is organized logically into three major phases:
 
 - **`01_cpp_fundamentals/`** - Core language concepts including basic syntax, pointers, references and more.
 
-- **`02_data_structures/`** - Implementations of standard data structures like Linked Lists, Array, String and more.
-
-- **`03_algorithms/`** - Standard problem-solving including Searching/Sorting, Recursion and more.
+- **`02_data-structures_algorithms/`** - Implementations of standard data structures and problem solving including Linked Lists, Array, String, Searching/Sorting, Recursion and more.
 
 ---
 
@@ -101,16 +99,16 @@ Run the following command in your respective terminal:
 
 ---
 
-> 📝 **Reflective Note:** You might notice that some of the code inside the `01_cpp_fundamentals/` directory looks a bit messy, slightly incorrect, or even cringe. This is entirely intentional! That code represents the absolute beginning of my C++ journey. Instead of rewriting or deleting it to look perfect, I have chosen to leave it exactly as it was written. This serves as a permanent, documented benchmark so I can look back one day to see where all this started and how much i have improved.
+> 📝 **Small Note:** You might notice that some of the code inside the `01_cpp_fundamentals/` directory looks a bit messy, slightly incorrect, or even cringe. This is entirely intentional. That code is from when i just started learning C++ and Instead of rewriting or deleting it to look perfect, I have chosen to leave it exactly as it was written.
 
 ---
 
 ## 📄 License
 
-This Repository is open-source and licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This Repository is open-source and licensed under the MIT License - see at [LICENSE](LICENSE).
 
 ---
 
-`Thank you for reading, have a nice day ahead. 👋`
+`thank you for reading, have a nice day ahead 👋`
 
--- RenSyntax
+-- kikyoito

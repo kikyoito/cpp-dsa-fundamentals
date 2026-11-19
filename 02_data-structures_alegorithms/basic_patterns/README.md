@@ -1,18 +1,10 @@
-# 📚 Documentation
-
----
-
-Welcome to `basic_patterns` folder, this folder contains the **pattern problems** and it's concepts.
-
----
-
 ## 📂 Folder Structure
 
 The Folder right now is organized in following way:
 
-* **`image/`** - It contains the image illustrations of patterns.
+- **`image/`** - It contains the image illustrations of patterns.
 
-* **`pattern_x.cpp`** - These are the main source files, where the code for specific pattern is stored, according to numbering.
+- **`pattern_x.cpp`** - These are the main source files, where the code for specific pattern is stored, according to numbering.
 
 ---
 
@@ -35,7 +27,7 @@ The Folder right now is organized in following way:
 ![pattern_4.png](image/pattern_4.png)
 
 ### Pattern 5 ✅
- 
+
 ![pattern_5.png](image/pattern_5.png)
 
 ### Pattern 6 ✅
@@ -109,9 +101,3 @@ The Folder right now is organized in following way:
 ---
 
 ### 🎗️ Completed 🎗️
-
----
-
-*Hope you have a nice day ahead ✨*
-
--- `RenSyntax`

@@ -1,6 +1,5 @@
-# ==========================================
 # C++ Compiled Binaries and Objects
-# ==========================================
+
 *.o
 *.obj
 *.so
@@ -14,21 +13,6 @@
 *.out
 *.bin
 
-# ==========================================
-# CMake and Build Directories
-# ==========================================
 # Ignores build folders
+
 build/
-
-# ==========================================
-# IDE and Text Editors
-# ==========================================
-# Qt Creator 
-*.user
-*.user.*
-
-# VS Code
-.vscode/
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
